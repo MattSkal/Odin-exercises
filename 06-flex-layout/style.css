@@ -71,9 +71,10 @@ input {
 .footer {
   display: flex;
   justify-content: space-between;
-  margin: 15px;
-  align-content: flex-end;
-  flex-direction: ;
+  padding: 15px;
+  margin-top: auto;
+  background-color: lightgray;
+  
   
 
 }
